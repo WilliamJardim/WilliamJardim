@@ -12,3 +12,6 @@ Have solid skills in the ExtJS framework (Sencha), developing and maintaining we
 I was able to solve many problems quickly, and improve the appearance and usability of the systems. I also had experience in virtualization. 
 
 I'm passionate about systems. In my free time, I like to create my own versions of algorithms. This practice was very useful in my career, as employers often asked me to create things from scratch, from custom components to internal libraries.
+
+# Social Networks
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/seu-usuario-linkedin)
