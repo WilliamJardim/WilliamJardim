@@ -1,4 +1,4 @@
-# William Alves Jardim
+# William Jardim
 Welcome!
 
 I am a Full Stack developer, specialized in Node.js with React.js, with extensive knowledge in Python, TypeScript, JavaScript, Database, Data Science and Machine Learning, and Mobile development. 
